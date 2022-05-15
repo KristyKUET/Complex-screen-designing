@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1619378940 source:e:\graphics_lab\solar_system\bmploader.cpp
+	"BmpLoader.h"
+	<stdio.h>
+	<iostream>
+
+1619378569 e:\graphics_lab\solar_system\bmploader.h
+	<windows.h>
+
+1623009907 source:e:\graphics_lab\solar_system\control_room.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<bits/stdc++.h>
+	"BmpLoader.h"
+
+1623583387 source:e:\graphics_lab\solar_system\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<bits/stdc++.h>
+	"BmpLoader.h"
+
+1622989264 source:e:\graphics_lab\solar_system\spaceship.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<bits/stdc++.h>
+	"BmpLoader.h"
+
+1623536743 source:e:\graphics_lab\solar_system\p_curve.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<bits/stdc++.h>
+	"BmpLoader.h"
+
